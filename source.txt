@@ -1,0 +1,27 @@
+Bootsrap Framework for User Interface
+http://getbootstrap.com/
+
+Fontawesome
+http://fontawesome.io/
+
+font Lato
+https://fonts.google.com/specimen/Lato
+
+Img
+
+FFXV
+https://i.pinimg.com/736x/ac/9b/f3/ac9bf30c33437da86aa3dce2d63351e5--final-fantasy-xv-finals.jpg
+https://i.gadgets360cdn.com/large/ffxv_cover_us_1479897071375.jpg
+
+COD
+http://i.jeuxactus.com/datas/jeux/c/a/call-of-duty/xl/call-of-duty-4e26498e6e314.jpg
+
+Battlefield
+https://www.aktifoyuncu.org/Uploads/UrunResimleri/buyuk/battlefield-4-origin-pc-cd-key-a02b.jpg
+https://data3.origin.com/content/dam/originx/web/app/games/battlefield/battlefield-4/battlefield-4-standard-edition_pdp_3840x2160_en_WW.jpg
+
+Overwatch
+https://assets2.razerzone.com/images/overwatch-landing/ce1763642875fa9baf40236130a584c7-overwatch-landing-header-bg.jpg
+
+admin
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/PICA.jpg/1024px-PICA.jpg
